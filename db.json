@@ -18,8 +18,8 @@
   "appointments":[
     {
       "id":1,
-      "name": "Jane Doe",
-      "image": "https://example.com/doctor-image.jpg",
+      "name": "S.K Gupta",
+      "image": "https://cdn.askapollo.com/live/images/doctors/cardiology/dr-s-k-gupta-cardiology-in-delhi.png",
       "specialization": "Dermatologist",
       "experience": 10,
       "location": "Los Angeles",
@@ -30,8 +30,8 @@
     },
     {
       "id":2,
-      "name": "Mark Johnson",
-      "image": "https://example.com/doctor-image.jpg",
+      "name": "Jasvinder",
+      "image": "https://cdn.askapollo.com/live/images/doctors/internal-medicine/dr-jasvinder-paintal-internal-medicine-in-delhi.png",
       "specialization": "Pediatrician",
       "experience": 5,
       "location": "Chicago",
