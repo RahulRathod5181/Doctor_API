@@ -4,14 +4,14 @@
       "id":1,
       "username":"Rahul",
       "email":"rahul@gmail.com",
-      "password":"Rahul@123",
+      "password":"123",
       "doctor":false
     },
     {
       "id":2,
       "username":"Pulkit",
       "email":"Pulkit@gmail.com",
-      "password":"Pulkit@123",
+      "password":"123",
       "doctor":true
     }
   ],
